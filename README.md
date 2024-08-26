@@ -20,7 +20,7 @@ The project uses the [HAM10000 dataset](https://www.kaggle.com/datasets/kmader/s
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/skin-disease-detection.git
+   git clone https://github.com/sriramreddypendyala/skin-disease-detection.git
    cd skin-disease-detection
    ```
 
